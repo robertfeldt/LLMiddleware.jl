@@ -2,5 +2,5 @@ using LLMiddleware
 using Test
 
 @testset "LLMiddleware.jl" begin
-    # Write your tests here.
+    include("test_utils_web.jl")
 end
