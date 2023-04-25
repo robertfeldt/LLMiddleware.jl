@@ -3,6 +3,9 @@ uuid = "3e2ff7bf-6ca3-49d8-a000-f89debcb90ff"
 authors = ["Robert Feldt"]
 version = "1.0.0-DEV"
 
+[deps]
+OpenAI = "e9f21f70-7185-4079-aca2-91159181367c"
+
 [compat]
 julia = "1.8"
 
