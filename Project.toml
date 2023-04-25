@@ -4,7 +4,10 @@ authors = ["Robert Feldt"]
 version = "1.0.0-DEV"
 
 [deps]
+EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
 OpenAI = "e9f21f70-7185-4079-aca2-91159181367c"
+Suppressor = "fd094767-a336-5f1f-9728-57cf17d0bbfb"
 
 [compat]
 julia = "1.8"
