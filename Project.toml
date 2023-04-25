@@ -1,0 +1,13 @@
+name = "LLMiddleware"
+uuid = "3e2ff7bf-6ca3-49d8-a000-f89debcb90ff"
+authors = ["Robert Feldt"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
